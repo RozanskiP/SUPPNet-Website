@@ -1,8 +1,7 @@
 # SUPPNet-Website
 Web page for scientific project, WEBPAGE THAT USES TENSORFLOW.JS TO DELIVER ANALYSIS TOOLS FOR END USERS
-*[Web-Page](rozanskit.com/suppnet/)
-
-* [How to use, in your own](https://github.com/RozanskiT/suppnet)
+* [Web-Page](rozanskit.com/suppnet/)
+* [How to use, in your own (Python)](https://github.com/RozanskiT/suppnet)
 
 ## Technologies
 Project is created with:
